@@ -1,0 +1,6 @@
+name: sizePlayer
+main: cn.size.sizeplayer.Main
+version: "1.0.0-SNAPSHOT"
+api: ["1.0.9"]
+load: POSTWORLD
+author: Rapda
